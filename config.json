@@ -1,0 +1,44 @@
+{
+  "chainId": 1306,
+  "validators": [
+    
+      
+      "0x6f422aCF1488455Ea134550D52Df3657Db335a05", 
+      
+    
+      
+         "0x49157C7129cd754B7df7585Bb9c4e002222Cb63e"
+      
+    
+   ],
+  "systemTreasury": {
+    "0xF7FCCFc3DE0789362B5B998782992a27b12040c8": 9000,
+    "0x07c59A919b64924a9326BB8c44F13c755f54c645": 1000
+  },
+  "consensusParams": {
+    "activeValidatorsLength": 25,
+    "epochBlockInterval": 1200,
+    "misdemeanorThreshold": 50,
+    "felonyThreshold": 150,
+    "validatorJailEpochLength": 7,
+    "undelegatePeriod": 6,
+    "minValidatorStakeAmount": "0xde0b6b3a7640000",
+    "minStakingAmount": "0xde0b6b3a7640000"
+  },
+  "initialStakes": {
+    
+           
+           "0x6f422aCF1488455Ea134550D52Df3657Db335a05": "0x3635c9adc5dea00000",
+           
+    
+        
+           "0x49157C7129cd754B7df7585Bb9c4e002222Cb63e": "0x3635c9adc5dea00000"
+           
+    
+  },
+  "votingPeriod": 60,
+  "faucet": {
+    "0xF7FCCFc3DE0789362B5B998782992a27b12040c8": "0x21e19e0c9bab240000000",
+    "0x07c59A919b64924a9326BB8c44F13c755f54c645": "0x52b7d2dcc80cd2e40000000"
+  }
+}
